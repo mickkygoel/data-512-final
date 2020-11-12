@@ -39,6 +39,12 @@ In my analysis, I plan to make use of the descriptive analysis, historical trend
 
 3. **Regression analysis** - Yet another correlation analysis that I would like to produce is regression. This analysis can help in establishing the relationship of  Compensation with education, experience, gender, sexuality, ethnicity etc. Thus it can provide a very wholesome picure of exactly what all biases go into determining your analysis, and how much powerful each of those biases are.
 
+### Unknowns and dependencies
+I would aim to balance all my course and plan in advance such that there are not surprises at the last moment and my workload is spread out. Therefore I am confident that I should be able to finish this project in the allotted time. However, there are some unknowns that may impact the delivery of the project. 
+* Regulations around lockdown for covid-19 may change suddenly which may impact the time that we are able to devote towards the project. 
+* Any special incidents such as laptop stopped working, or the course website getting down etc. can also have some minor delays in the project schedule.
+* Newly scheduled recrruitment events and career fairs may clash with the project deadline. Hence, spreading out the project work upfront would be very important.
+
 ### Sources
 Stack Overflow. (n.d.). Retrieved November 03, 2020, from https://insights.stackoverflow.com/survey/
 Stack Overflow Developer Survey 2020. (n.d.). Retrieved November 03, 2020, from https://insights.stackoverflow.com/survey/2020
