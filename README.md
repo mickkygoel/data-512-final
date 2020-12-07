@@ -41,3 +41,10 @@ We can see a small steady decrease in the gender gap over years,  however the ra
 
 ## License
 The project has been licenced under MIT, please read the [license file](https://github.com/mickkygoel/data-512-final/blob/main/LICENSE) for more details
+
+## References
+* DATA 512 Lectures, University of Washington
+* Stack Overflow. (n.d.). Retrieved November 03, 2020, from https://insights.stackoverflow.com/survey/
+* Stack Overflow Developer Survey 2020. (n.d.). Retrieved November 03, 2020, from https://insights.stackoverflow.com/survey/2020
+* Quick Facts About the Gender Wage Gap. Retrieved November 03, 2020, from https://www.americanprogress.org/issues/women/reports/2020/03/24/482141/quick-facts-gender-wage-gap/
+* Student's t-test. Retrieved November 03, 2020, from  https://en.wikipedia.org/wiki/Student%27s_t-test
