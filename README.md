@@ -1,14 +1,13 @@
 # Role of Demographics in salaries of developers
 
 ***Mayank Goel***
+
 ***University of Washington***
 
 ## Abstract
 
 ### Motivation and problem statement
-It would not be wrong to say that technology advancement is the leading factor for growth and development in the 21st century. Countries who lead in technical innovation are growing the fastest and people working within the tech industry are generally enjoying higher than average pay. Therefore, I wanted to understand the demographics of the building blocks of this technology industry, i.e. the developers. 
-
-This study would help to unearth the existing biases and inequality within the developer community. These biases and differences can be seen as a proxy of the developing world in general. Therefore, I believe that this study is deeply rooted as human-centered. Since our cohort is also a part of this community, I am hopeful that the analysis would help us realize our own prejudices and make us more aware of them as we go into the workforce. The study would help us to amend our behavior, make the required changes in our process and set new targets to improve the diversity, respect and inclusion within the developer community.
+It would not be wrong to say that technology advancement is the leading factor for growth and development in the 21st century. Countries who lead in technical innovation are growing the fastest and people working within the tech industry are generally enjoying higher than average pay. This study would help to unearth the existing biases and inequality within the developer community. These biases and differences can be seen as a proxy of the developing world in general. Therefore, I believe that this study is deeply rooted as **human-centered**. 
 
 ### Datasets
 The dataset that I plan to use for my analysis has been generated through the Stack Overflow Annual Developer Survey that was conducted by Stack Overflow from February 5 to February 28 in 2020. The data contains response of 65,000 professional and aspiring software developers, representing 186 countries around the world. The dataset and related information can be accessed from this link: https://insights.stackoverflow.com/survey/
