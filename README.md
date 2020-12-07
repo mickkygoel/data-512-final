@@ -38,3 +38,6 @@ As we can see from the regression results below, there are several big biases pr
 **Historical analysis** 
 
 We can see a small steady decrease in the gender gap over years,  however the rate is very low and it could take years to cover the gap. Therefore, it raise an important question regaring the strong measures that shoudl be taken now to resolve this universal issues.  We can see a big dip in 2017, however, this could be because of some of the anomaly in the underlying dataset, or how the survey results were measured.
+
+## License
+The project has been licenced under MIT, please read the [license file](https://github.com/mickkygoel/data-512-final/blob/main/LICENSE) for more details
